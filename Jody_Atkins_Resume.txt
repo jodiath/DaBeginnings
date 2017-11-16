@@ -1,0 +1,149 @@
+JODY ATKINS
+7 PUMPKIN PLACE
+DURHAM, NORTH CAROLINA 27703
+919.808.1880
+JODIATH@JODIATH.COM
+
+INFORMATION SECURITY ENGINEER/ANALYST | CYBER SECURITY ANALYST
+
+QUALIFICATIONS PROFILE
+
+Detail-oriented, results-focused, and dedicated IT professional, offering comprehensive experience in information technology, security management, application development, and network administration.
+
+Equipped with in-depth expertise in security management, system analysis and administration, and software management. Expert at identifying improvement needs and addressing clients’ requirements. Excellent relationship builder, armed with interpersonal and communication skills essential in establishing positive relationships with senior leadership and professionals from all organizational levels.
+
+
+AREAS OF EXPERTISE
+
+Cybersecurity | Information Systems Engineering and Analysis
+Workflow Management | Product Development and Implementation | Vendor and Client Relationship Management
+Staff Training and Development | Hardware and Software Support
+
+
+PROFESSIONAL EXPERIENCE
+
+GENERAL DYNAMICS-USPS | RALEIGH, NC (2016-Present)
+PRINCIPAL ANALYST, INFORMATION SECURITY - ENGINEER
+Public Trust Security Clearance
+* Install and administer TrendMicro TippingPoint IDS/IPS, Security Management System (SMS) and Advanced Threat Protection (ATP) appliances
+* Oversee Cisco Sourcefire IDS sensors and FireSight Manager Console (FMC) implementation
+* Create and execute Splunk reports and custom parsing scripts
+* Review Red Seal to verify connectivity and troubleshoot security and network related issues
+* Research and troubleshoot security concerns by employing Symantec Security Information Manager (SSIM)
+* Manage multiple projects for security system upgrades and audit reviews
+* Monitor security standards (CIS CSC SANS20, NIST 800-53, FIPS 140-2, etc.) to verify vendor products meet or exceed defined security requirements.
+
+NOBLIS-USPS | RALEIGH, NC (2016-2016)
+CYBERSECURITY SPECIALIST
+* Public Trust Security Clearance
+* Consulted with customer on security procurements and verify consistency with current security posture.
+* Coordinated with and monitored multiple security procurements and create review board documentation for software proof of concepts and production deployments.
+* Engaged with customer’s security professionals and offered advice on security software implementation and configuration within system deploying 5,000 plus security devices.
+* Interfaced with multiple procurement software, tracking product purchases from initiation through reception.
+
+RTI INTERNATIONAL | RESEARCH TRIANGLE PARK, NC (2005-2016)
+SECURITY ANALYST	
+* Managed and employed security incident response plan (IRP) defining step-by-step process to troubleshoot, document and recover from malicious activity and security breaches.
+* Maintained high corporate security posture through use of Tenable Security Center, Nessus scanners and IBM AppScan to ensure company resources are properly secured and updated.
+* Assisted with developing data loss prevention plan and deploying McAfee Data Loss Prevention companywide to enforce policy.
+* Performed consistent security reviews of government projects (NIIH, NIH, SAMSHA, etc.) to verify the IT infrastructure is adhering to government standards (CIS CSC-SANS 20, NIST 800-53, FIPS-140.2, etc.).
+* Employed security evaluation tools (Metasploit, MS Baseline Analyzer, Wireshark, NMAP, Kali Linux, etc.) to perform security evaluations of corporate and customer resources both internally and externally.
+* Advised multiple security and IT engineers on proper processes for successful data recovery resulting from security incidents.
+
+SUPERVISOR (Infrastructure as a Service)	
+* Applied in-depth technical expertise and strategic management procedures to provide the highest standard of performance and security in networked systems
+* Rendered keen oversight to technical support staff who handle data networks, data security, VPNs, SANs, RADIUS, and two-factor authentication
+* Directly worked with the purchasing and information technology support (ITS) staff to administer the ordering, receipt, and payment operations for the acquisition of new technology for both domestic and international markets
+* Managed the development of requests for proposal (RFPs) and invitations for bid (IFBs) based on the datacenter, information systems infrastructure, and network systems
+* Formulated and implemented capacity planning procedures to rate the application of network devices and hosted applications
+* Took charge of installing and managing the datacenter infrastructure power, environmental optimization, and multiple operating systems, such as Microsoft Windows 2003-2012 and RHEL
+
+SENIOR DATACENTER ENGINEER	
+* Developed and administered operating system deployment infrastructure
+* Held responsibility in installing, configuring, and administering numerous hardware and software, such as domestic and international server hardware, including Dell, HP, and IBM; and Schneider StruxureWare software to track and adjust the datacenter environmentals and control power consumption
+* Coordinated with and monitored vendors on preventative maintenance and troubleshooting of various CAT Flywheel-UPS 300s, APC Symmetra 40kWs, Liebert 610s and APC 750-5000 series, as well as network connectivity issues, power issues, and new project concerns
+* Communicated with customers and vendors to resolve and troubleshoot hardware and software issues
+* Effectively troubleshot domestic and international extended warranty hardware issues by collaborating with Park Place Technologies and other warranty vendors
+
+SENIOR SYSTEMS SPECIALIST I	
+* Fulfilled a wide range of tasks in installing, configuring, and managing various hardware and software, as follows:
+* RSA 6.1 and 7.1, Steel Belted Radius, and Checkpoint Firewalls (NGX and Edge)
+* TippingPoint Intrusion Prevention Systems, SMS, Juniper SRX firewalls, and Juniper SPACE applications
+* VASCO Identikey/Digipass and RSA SecurID two factor authentication services
+* VMware Infrastructure 3.5 and vSphere 4.0
+* Pointsec /Checkpoint Whole Disk, File level, and Data Path Encryption World Wide
+* McAfee/Nitro SIEM Devices (ESM, ELM, etc.)
+* Kiwi, Juniper STRM, and PRTG log and event management application and appliance
+* Nessus Security IBM Security AppScan Center and scanners companywide to validate NIST and FIPS standards
+* Dealt with moderate troubleshooting and repair of RH Linux servers
+* Provided effectual assistance in managing the Secure Zip Enterprise in accordance with both desktop and company policies worldwide
+* Held responsibility in assessing, performing, and documenting the Riverbed Optimization and acceleration software
+* Demonstrated technical expertise in troubleshooting and managing the Juniper Network Connect, Proxy, Pulse, and Checkpoint Secure Client Virtual Private Connection products
+
+SYSTEMS ADMINISTRATOR III	
+* Developed and configured various websites for both IIS 6.0 and Tomcat 6.0; including conducting patch management for various Microsoft Windows servers, such as SQL, IIS, and Clustering
+* Assumed full accountability in troubleshooting F5 Load balancer and connectivity issues through IP, Firewall, and DNS
+* Setup and administered various Microsoft Windows SQL 2000 and 2005 servers
+* Decoded and resolved issues by coordinating with various customers
+
+SECURITY SYSTEMS SUPPORT SPECIALIST	
+* Managed the installation and configuration of racks, servers, switches and workstations
+* Carried out installation, configuration, and troubleshooting of Microsoft Windows server platforms supporting various security software packages, such as nDVR, Win-Pak, and Manitou
+* Expertly employed remote desktop to render full coverage as well as in-person support
+* Ensured proper maintenance of Win-Pak card access system throughout campus and remote locations 
+* Took charge of upgrading, installing, and configuring software and hardware of camera surveillance
+* Facilitated personnel trainings regarding multiple systems and troubleshooting techniques
+
+EARLIER CAREER
+
+MICROSOFT | CHARLOTTE, NC
+ENTERPRISE PLATFORM SUPPORT TECHNICIAN	
+
+AMERICAN SOCIAL HEALTH ASSOCIATION | DURHAM, NC
+NETWORK ADMINISTRATOR | SYSTEM ANALYST	
+
+TEKSYSTEMS| RESEARCH TRIANGLE PARK, NC
+SOFTWARE ENGINEER | DESKTOP SUPPORT | HELP DESK SUPPORT | TEAM LEADER	
+
+ALLTEL COMMUNICATIONS | MORRISVILLE, NC
+LAN SUPPORT | WEB MASTER | SENIOR SERVICE TECHNICIAN	
+
+UNITED STATES MARINE CORPS
+COMMUNICATIONS SECURITY EQUIPMENT TECHNICIAN (HONORABLE DISCHARGE)	
+
+
+EDUCATION
+
+Bachelor of Science in Business Administration, Management Information Systems
+(Spring 2018)
+East Carolina University | Greenville, NC
+
+Associate of Arts in Liberal Arts
+Chaminade University | Honolulu, HI
+
+
+PROFESSIONAL DEVELOPMENT
+
+Security+ ce Certification
+Juniper Security Certified Professional (JNCIP)
+Red Hat Systems Administration 1 (RH124) Certification
+ITIL V3 Foundation
+TippingPoint Certified Security Systems Administrator
+Check Point Certified Security Administrator NGX
+Network+ Certification
+Microsoft Certified Systems Administrator
+A+ Certification
+Certified Internet Webmaster HTML Fundamentals
+Certified Internet Webmaster Foundations Class
+Certified Internet Webmaster Methodology and Technology
+Code-Division Multiple Access (CDMA) Training Course
+Motorola Advanced Cellular Technicians Training Course
+Motorola Cellular Technicians Training Course
+Micro-Miniature Electronics Repair Course
+Communications Security Equipment Repair Course
+Basic Electronics Course
+
+
+TECHNICAL ACUMEN
+
+Nessus Scanning | NMap | Packet Capturing and Analysis | Palo Alto |  Firewalls Check Point |  GRE, VPN, SSL | PHP | Security-IDS/IPS (Tipping Point and Juniper) | SIEM (Juniper STRM, McAfee Nitro, IBM Qradar, HP ArcSight) | VB (Visual Basic) | Virtualization (VMware, Virtual Box, Citrix) | Wireshark | Microsoft Office Suite | Microsoft Windows Apple/MAC | Apache | Batch Scripting | Cisco | Database Administration | DOS | Encryption at Rest (Full Disk Encryption, PGP, SecureZip) | F5 | IIS | Linux (RHEL, Mandrake, Centos, Fedora) 
